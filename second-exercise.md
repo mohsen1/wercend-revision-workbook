@@ -25,4 +25,4 @@ Try cutting “She lived alone.” The four plates now have ordinary explanation
 Both versions leave the other two places unexplained. A reader who experiences that as loss may want the silence. A reader who experiences it as an abandoned clue may need another detail. Choose the effect you mean to create.
 </details>
 
-[Return to the worksheet guide](README.md)
+[Return to the worksheet guide](https://azimi.me/wercend-revision-workbook/)
