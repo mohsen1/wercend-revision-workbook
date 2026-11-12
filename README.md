@@ -24,7 +24,7 @@ Cover paragraph C. After A and B, could you return your book? Now imagine that t
 
 **One revision for the door:** “Starting Monday, return books at the side door on Maple Street. The front entrance will be closed for repairs.” Move the board’s review date into the meeting notes. Leave out the volunteers unless the notice also has a reason to thank them.
 
-**One revision for the meeting:** “In June, the board will decide whether to keep the signs used during front entrance repairs. Staff will bring visitor feedback from the six-week trial.” The route belongs on the notice; what the board must decide belongs on the agenda. Both revisions use the same facts.
+**One revision for the meeting:** “The board will review the six-week returns trial in June. After the trial, staff will ask visitors which signs they noticed.” The route belongs on the notice; what the board will review belongs on the agenda. Both revisions use the same facts.
 
 ## Use it on your own draft
 
