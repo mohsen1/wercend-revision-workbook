@@ -2,6 +2,8 @@
 
 A free revision exercise from [Wercend](https://wercend.com/?utm_source=github&utm_medium=referral&utm_campaign=revision_workbook). Bring a draft, a pen, and one reader in mind. You can do the whole exercise on paper.
 
+[Print the one-page worksheet for a writing group](output/pdf/reverse-outline-worksheet.pdf) or [copy the editable worksheet](worksheet.md).
+
 A reverse outline is an outline you make *after* writing. The [University of Wisconsin–Madison Writing Center](https://writing.wisc.edu/handbook/processandstructure/reverseoutlines/) explains how to use paragraph summaries to examine the order of a draft. This workbook adds a reader’s question beside each summary. Sometimes a paragraph is in the right place for the writer who knows the ending and the wrong place for someone arriving cold.
 
 ## Try it on three paragraphs
