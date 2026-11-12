@@ -1,3 +1,8 @@
+---
+layout: default
+title: Blank reverse outline worksheet
+---
+
 # My reverse outline
 
 Draft:

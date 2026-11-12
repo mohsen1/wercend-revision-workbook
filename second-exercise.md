@@ -1,3 +1,8 @@
+---
+layout: default
+title: When moving the ending spoils the piece
+---
+
 # When moving the ending spoils the piece
 
 A reverse outline can tempt you to put every answer first. Try this counterexample.
