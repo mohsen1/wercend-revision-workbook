@@ -37,6 +37,8 @@ Cover paragraph C. After A and B, could you return your book? Now imagine that t
 
 [Copy the blank worksheet](worksheet.md) or [try the second exercise](second-exercise.md) before checking its answer.
 
+For a technical draft, try the [worked example on writing release notes for a breaking change](https://azimi.me/writing/release-notes-breaking-change/). It shows where to put the migration step so a developer can act on it.
+
 If two paragraphs still feel disconnected, [try the paragraph transition exercise](https://azimi.me/wercend-revision-workbook/paragraph-transitions.html).
 
 ## Run it with a writing partner in ten minutes
