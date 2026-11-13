@@ -39,4 +39,17 @@ Cover paragraph C. After A and B, could you return your book? Now imagine that t
 
 If two paragraphs still feel disconnected, [try the paragraph transition exercise](https://azimi.me/wercend-revision-workbook/paragraph-transitions.html).
 
+## Run it with a writing partner in ten minutes
+
+Bring a draft of three to five paragraphs. Keep a copy of the original so you can compare the two openings at the end.
+
+| Time | Writer | Reader |
+| --- | --- | --- |
+| 0–2 minutes | Write down what you hope the reader will understand by the end. Fold that note over. | Read the draft once. Pause after each paragraph to write the question you have at that moment. |
+| 2–5 minutes | Listen and mark the first place your reader needed more context. | Read your questions aloud in order. Point to the words that raised each one. |
+| 5–8 minutes | Move or revise one passage. | Try the new order. Say where a question gets answered earlier or where a surprise loses its force. |
+| 8–10 minutes | Unfold your note and compare it with what your reader took away. | Identify one sentence you would keep in either version, and say why. |
+
+If you want to test a reveal on someone coming to the story fresh, give the revised version to a second reader. Your first reader already knows the ending.
+
 To see how this looks in an editor, open the [Wercend Story demo](https://wercend.com/?utm_source=github&utm_medium=referral&utm_campaign=revision_workbook&utm_content=story_demo#story). Select a story moment and follow its supporting passage. Decide whether the passage actually has the effect the map describes. The homepage example is available without signing in.
