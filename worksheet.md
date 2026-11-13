@@ -5,9 +5,14 @@ title: Blank reverse outline worksheet
 
 # My reverse outline
 
+<a href="assets/reverse-outline-template.txt" download>Download the editable text template</a> to fill it in with any text editor.
+
 Draft:
+
 Reader:
+
 What brought them here:
+
 After reading, they should be able to:
 
 | Passage | What changes for this reader? | Question they might ask next | Where does the draft answer it? |
