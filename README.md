@@ -39,4 +39,4 @@ Cover paragraph C. After A and B, could you return your book? Now imagine that t
 
 If two paragraphs still feel disconnected, [try the paragraph transition exercise](https://azimi.me/wercend-revision-workbook/paragraph-transitions.html).
 
-To see how this looks in an editor, open the [Wercend Story demo](https://wercend.com/?utm_source=github&utm_medium=referral&utm_campaign=revision_workbook&utm_content=story_demo). Select a story moment and follow its supporting passage. Decide whether the passage actually has the effect the map describes. The homepage example is available without signing in.
+To see how this looks in an editor, open the [Wercend Story demo](https://wercend.com/?utm_source=github&utm_medium=referral&utm_campaign=revision_workbook&utm_content=story_demo#story). Select a story moment and follow its supporting passage. Decide whether the passage actually has the effect the map describes. The homepage example is available without signing in.
